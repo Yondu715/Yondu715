@@ -1,9 +1,9 @@
 <div style="display: flex">
   <a href="">
-    <img src="https://github-readme-stats.vercel.app/api/?username=Yondu715&show_icons=true&theme=synthwave&hide_border=true" style="width:60%"/>
+    <img src="https://github-readme-stats.vercel.app/api/?username=Yondu715&show_icons=true&theme=synthwave&hide_border=true" style="width:50%"/>
   </a>
   <a href="">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yondu715&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=synthwave&hide=Jupyter%20Notebook" style="width:30%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yondu715&layout=compact&langs_count=8&card_width=320&hide_border=true&theme=synthwave&hide=Jupyter%20Notebook" style="width:40%"/>
   </a>  
 </div>
 <div style="display: flex; flex-direction: column">
